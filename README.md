@@ -4,7 +4,7 @@ Usage: tb [OPTIONS] COMMAND [ARGS]...
   Shortcut tool for Toolbox (https://containertoolbx.org/) that can associated
   diretories with a toolbox.
 
-  Features, Feedback, and Bugs: https://github.com/bostrt/tb
+  Features, Feedback, and Bugs: https://github.com/bostrt/toolbox-dir
 
 Options:
   --podman-url TEXT  URL to access Podman service  [default:

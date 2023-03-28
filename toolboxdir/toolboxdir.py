@@ -52,7 +52,7 @@ def cli(ctx, podman_url):
     """Shortcut tool for Toolbox (https://containertoolbx.org/) that can associated diretories with a toolbox.
     
     \b
-    Features, Feedback, and Bugs: https://github.com/bostrt/tb
+    Features, Feedback, and Bugs: https://github.com/bostrt/toolbox-dir
     """
     try:
         ctx.ensure_object(dict)
