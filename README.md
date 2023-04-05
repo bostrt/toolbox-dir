@@ -1,3 +1,9 @@
+# Install
+
+```
+pip install --user toolbox-dir
+```
+
 # Usage
 ```
 Usage: tb [OPTIONS] COMMAND [ARGS]...
