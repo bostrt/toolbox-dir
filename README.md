@@ -1,3 +1,7 @@
+# What
+
+Shortcut tool for Toolbox (https://containertoolbx.org/) that can associate diretories with a toolbox. 
+
 # Install
 
 ```
