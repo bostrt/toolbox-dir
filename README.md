@@ -1,3 +1,4 @@
+# Usage
 ```
 Usage: tb [OPTIONS] COMMAND [ARGS]...
 
@@ -17,3 +18,7 @@ Commands:
   list   List all toolbox/directory links
   rm     Remove link for directory
 ```
+
+# Demo
+
+[![asciicast](https://asciinema.org/a/ND7jdq9U1HUF9jp00dqNTQBij.svg)](https://asciinema.org/a/ND7jdq9U1HUF9jp00dqNTQBij)
